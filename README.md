@@ -42,5 +42,5 @@ A task and goal tracking app built with SwiftUI that helps users track their pro
 ## Future Improvements
 
 - SwiftData integration for more robust data persistence
-- Advanced Design or UI/UX
+- Advanced UI/UX
 - Goal categories and tags
